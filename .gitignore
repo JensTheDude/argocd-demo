@@ -1,0 +1,7 @@
+.env
+.env.*
+*.key
+*.pem
+talosconfig
+controlplane.yaml
+worker.yaml
